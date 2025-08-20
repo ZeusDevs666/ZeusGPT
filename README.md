@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TGNet MVP
 
 Минимальный телеграм-бот (aiogram v3):
@@ -18,3 +19,6 @@
   `DB_DSN=postgresql+asyncpg://user:pass@host:5432/dbname`
 - Список каналов: `REQUIRED_CHANNELS=@ch1,@ch2,-1001234567`
 - Если `MAINTENANCE_MODE=true`, бот отвечает сообщением и не пускает дальше.
+=======
+# ZeusGPT
+>>>>>>> origin/main
